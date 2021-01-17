@@ -1,0 +1,21 @@
+/* float-noclear.css */
+#wrap {
+  width:  100%;
+  background-color:   gray;
+}
+#box1 {
+  background-color: purple;
+  color:  white;
+  width:  50%;
+  float:  left;
+}
+#box2 {
+  background-color: green;
+  color:  white;
+  width:  50%;
+  float:  right;
+}
+#box3 {
+  background-color: blue;
+  color:  white;
+}

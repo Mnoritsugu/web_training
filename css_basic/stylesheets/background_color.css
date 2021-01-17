@@ -1,0 +1,18 @@
+body {
+  /* background-color: #CCCCCC; */
+  background-image: url(../images/dot.png);
+  background-repeat: repeat;
+  /* background-position: right; */
+}
+
+h2 {
+  background-color: #4587BD;
+
+  /* border-style: inset;
+  border-color: #E2B483;
+  border-width: 5px; */
+
+  border: #E2B483 10px inset;
+
+  color: white;
+}
